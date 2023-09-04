@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696808705376",
+    "firebase_url": "https://mychat-9ff6d-default-rtdb.firebaseio.com",
+    "project_id": "mychat-9ff6d",
+    "storage_bucket": "mychat-9ff6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696808705376:android:20d14f56beb4f1bdd16205",
+        "android_client_info": {
+          "package_name": "com.ak87.necomychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696808705376-geeg0krtrbseapnugrlfa1tp8l81kvuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbm7Lc3er7Ph2LJlaSIhb24VyR58EEE-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696808705376-geeg0krtrbseapnugrlfa1tp8l81kvuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
